@@ -3,7 +3,6 @@
 Binary Trees are data structures used for efficient searching and sorting. Their structure is often composed by intelligent systems to facilitate the performance of these algorithms.
 
 ![Binary Tree Structures](../project_images/2014-02-12_14.03.56-2.jpg)
-
 *—sketches visualising different binary tree structures*
 
 ## Terminology & Properties
