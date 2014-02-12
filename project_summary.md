@@ -16,6 +16,9 @@ The only constraint on the question that can be asked is the response—it must 
 * Do you believe in a God?
 * Have you ever wanted to be something else?
 
+Submitted questions will become part of the tree—embedding themselves at the location where the user completed their journey.
+Users will be able to return to their question to see how many people answered with a **YES** and how many with a **NO**.
+
 The physical manifestation of this project will be defined by the data collected in due course.
 
 *—cover photo "Pill Scene" from [The Matrix (1999)](http://www.imdb.com/title/tt0133093/)*
