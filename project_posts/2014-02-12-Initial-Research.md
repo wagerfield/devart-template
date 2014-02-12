@@ -13,6 +13,6 @@ Binary Trees consist of 2 components: **[node]s** and **[edge]s**.
 
 * A **node** is an abstract entity.
   - A node in a binary tree can have *no more than 2 child nodes*.
-  - A **root** node is the only node in the tree that *has no parent*.
+  - A **root** node is the only node in a tree that *has no parent*.
   - A **leaf** node is a node with *no child nodes*.
 * An **edge** *connects* 2 nodes.
