@@ -2,9 +2,9 @@
 
 Binary Trees are specialised graph structures which lend themselves to efficient search algorithms.
 Such algorithms typically expect binary trees to be sorted in a specific way to facilitate their performance.
-The robotic nature of these algorithms often causes them to break with anything other than the perfect input.
+The robotic nature of these algorithms often causes them to break with anything other than the *perfect input*.
 
-![Binary Tree Structures](../project_images/2014-02-12_14.03.56-2.jpg)
+![Binary Tree Structures](../project_images/2014-02-12-14.03.56.jpg)
 *—sketches visualising different binary tree structures*
 
 ## Terminology & Properties
