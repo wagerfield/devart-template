@@ -11,7 +11,7 @@
 * Will the tree reach a critical size?
 * Will users be more interested in answering questions or asking one of their own?
 
-Assuming that the experiment gets any traffic at all, I predict that the tree will quickly reach a critical size where participants get bored of answering questions and leave the experiment.
+Assuming that the experiment gets any traffic at all, I predict that the tree will quickly reach a critical size where participants get bored of answering questions and leave.
 Subsequently I expect the initial yes/no counters towards the root of the tree to increment fairly consistently. Longer branches will likely suffer from greater falloffs towards their leaf nodes.
 If this is not addressed, the submission of questions will suffer and the data structure will stagnate.
 
