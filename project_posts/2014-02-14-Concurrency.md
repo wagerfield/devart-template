@@ -6,7 +6,7 @@ If two users arrive at the same leaf node—prompting them to submit a question 
 
 After answering a series of questions I expect a user to spend some time deliberating over their own question. This is a major problem since it would require leaf nodes to be ‘locked’ for long periods of time. Subsequent users would have to wait for a pending question to be submitted before they could proceed—making for a very unfavourable experience.
 
-As the tree grows, the likelihood of this scenario will likely dwindle as more leaf nodes emerge. However, when the tree is in its infancy this issue will be prevalent.
+As the tree grows, the likelihood of this scenario will dwindle as more leaf nodes emerge. However, when the tree is in its infancy this issue will be prevalent.
 
 ## Solutions
 
